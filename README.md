@@ -1,8 +1,6 @@
 # Amazon Bedrock for Beginners – From First Prompt to AI Agent
 
-Companion repo for the YouTube video: **Amazon Bedrock for Beginners – From First Prompt to AI Agent (Full Tutorial)**
-
-[VIDEO_LINK]
+Companion repo for the YouTube video and blog: **Amazon Bedrock for Beginners – From First Prompt to AI Agent**
 
 This repo contains code samples that take you from your first Bedrock API call to a fully working AI agent. By the end, you'll build a university FAQ chatbot that uses a Knowledge Base for RAG, Guardrails for content safety, a custom tool for course lookups, and the Strands Agents SDK to tie it all together.
 
